@@ -83,9 +83,9 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   <tbody>
   <tr width="500px" align="center">
   <td>
-    
-GIF FIRSTPRJC
 
+  ![FirstPRJCT](https://github.com/VuinZ/VuinZ/assets/156357008/0db46e56-3e10-4f67-8ec2-6f95e58c717d)
+  
   </td>
   <td>
 
