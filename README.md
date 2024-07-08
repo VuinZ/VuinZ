@@ -26,7 +26,7 @@ My ultimate goal is to create games that not only entertain but also inspire and
 
 I'm always open to connecting with fellow developers, artists, and enthusiasts. Feel free to reach out if you want to discuss game development, collaborate on a project, or just chat about the latest trends in the gaming world.
 
-- [Email] vincent8tanujaya@gmail.com
+- [Instagram] vincent.vet
 
 
 
