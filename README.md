@@ -48,7 +48,7 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/VuinZ/GitFirstProject">MyFirstProject</th>
+      <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">ForbiddenDreams</th>
       <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">ForbiddenDreams</th>
     </tr>
   </thead>
@@ -56,7 +56,7 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   <tr width="500px" align="center">
   <td>
 
-  ![FirstPRJCT](https://github.com/VuinZ/VuinZ/assets/156357008/0db46e56-3e10-4f67-8ec2-6f95e58c717d)
+  ![Forbiddendream](https://github.com/VuinZ/VuinZ/assets/156357008/27c71065-fd44-4752-a916-235bb19689b2)
   
   </td>
   <td>
@@ -68,7 +68,7 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Just simple mechanism of User Interface, animation, and Basic Interaction i've learned. This is my first project using Unity Engine. 
+Forbidden Dreams is a serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. The game follows the story of a girl named Anisa who is trapped in a dream world. There he met a ghost named 'A' who would guide him to get out of the dream world. Anisa's journey will certainly not be easy, she has to solve several cases, where to solve them, Anisa has to use SIBI sign language.  
 
   </td>
   <td valign="text-top">
