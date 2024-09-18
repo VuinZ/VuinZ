@@ -56,8 +56,8 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   <tr width="500px" align="center">
   <td>
 
-  ![Forbiddendream](https://github.com/VuinZ/VuinZ/assets/156357008/27c71065-fd44-4752-a916-235bb19689b2)
-  
+  ![ShbJok](https://github.com/user-attachments/assets/c28ce043-04d6-453b-aa7a-ac2bf8001ed9)
+
   </td>
   <td>
 
