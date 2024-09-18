@@ -48,7 +48,7 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">ForbiddenDreams</th>
+      <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">Agent Alpha</th>
       <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">ForbiddenDreams</th>
     </tr>
   </thead>
@@ -68,7 +68,9 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Forbidden Dreams is a serious game created with the theme of special needs using SIBI sign language with a combination of role playing, puzzles and a little horror element. The game follows the story of a girl named Anisa who is trapped in a dream world. There he met a ghost named 'A' who would guide him to get out of the dream world. Anisa's journey will certainly not be easy, she has to solve several cases, where to solve them, Anisa has to use SIBI sign language.  
+Agent Alpha is a 3D game set in a cyberpunk city with elements of horror, designed to deliver a thrilling experience.
+
+The future... Humans living together with humanoid robots are a common thing. Robot's act and behave just like human even in some newer models, they are better than humans. But what will happen when robot's going rogue, i'm certain they can do that. No... I think they will do that.  But when the time comes, I as an agent will stop them no matter what.  
 
   </td>
   <td valign="text-top">
