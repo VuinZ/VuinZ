@@ -56,7 +56,8 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
   <tr width="500px" align="center">
   <td>
 
-  ![ShbJok](https://github.com/user-attachments/assets/c28ce043-04d6-453b-aa7a-ac2bf8001ed9)
+  ![0921](https://github.com/user-attachments/assets/73930200-dae7-44c1-9b65-566aa107248a)
+
 
   </td>
   <td>
