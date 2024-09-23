@@ -48,7 +48,7 @@ Experience the thrill of leaping over obstacles, dodging dangerous traps, and ba
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">Agent Alpha</th>
+      <th width="500px" align="center"><a href="https://github.com/VuinZ/GAMEJAM">Agent Alpha</th>
       <th width="500px" align="center"><a href="https://github.com/VuinZ/Forbidden-Dream-Project">ForbiddenDreams</th>
     </tr>
   </thead>
