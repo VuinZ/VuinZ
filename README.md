@@ -2,7 +2,8 @@
 
 Hello! I'm Vincent Tanujaya, but you can call me VT. I'm a dedicated student at Bina Nusantara University, where I'm majoring in Game Application and Technology. My passion for game development drives me to constantly learn and improve, aiming to become an excellent game programmer.
 
-
+<h2>Timeline Project</h2>
+https://vincenttanujaya.carrd.co/ 
 <h2>My Projects</h2>
 
 <!-- ============================================= -->
