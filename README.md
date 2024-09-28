@@ -86,27 +86,13 @@ Forbidden Dreams is a serious game created with the theme of special needs using
 
 ## 💼 My Experience
 
-So far, I've been involved in 4 game development projects where I took on roles as both a developer and a game artist. These experiences have equipped me with a well-rounded skill set in the game development process.
-
-## 🎯 Goals
-
-My ultimate goal is to create games that not only entertain but also inspire and connect people. I'm committed to continuously learning and growing in the field of game development.
+So far, I've been involved in 9 game development projects where I took on roles as both a developer and a game artist. These experiences have equipped me with a well-rounded skill set in the game development process.
 
 ## 🌱 What I'm Working On
 
 - Enhancing my skills in game programming and design.
 - Exploring new techniques and technologies in game development.
 - Collaborating on exciting game projects.
-
-## 📫 How to Reach Me
-
-I'm always open to connecting with fellow developers, artists, and enthusiasts. Feel free to reach out if you want to discuss game development, collaborate on a project, or just chat about the latest trends in the gaming world.
-
-- [Email] vinnugas@gmail.com
-- [Instagram] vincent.vet
-
-
-
 
 <!-- ============================================= -->
 <h2>My Tools</h2>
